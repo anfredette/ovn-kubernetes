@@ -29,7 +29,7 @@ github.com/bhendo/go-powershell/backend
 github.com/bhendo/go-powershell/utils
 # github.com/cenkalti/hub v1.0.1
 github.com/cenkalti/hub
-# github.com/cenkalti/rpc2 v0.0.0-20210117202628-1bea588996c7
+# github.com/cenkalti/rpc2 v0.0.0-20210206021708-de76ddb08fa8
 github.com/cenkalti/rpc2
 github.com/cenkalti/rpc2/jsonrpc
 # github.com/cespare/xxhash/v2 v2.1.1
@@ -61,13 +61,13 @@ github.com/docker/spdystream
 github.com/docker/spdystream/spdy
 # github.com/ebay/go-ovn v0.1.1-0.20210203103701-8bb6a085d599
 github.com/ebay/go-ovn
-# github.com/ebay/libovsdb v0.2.1-0.20200719163122-3332afaeb27c
+# github.com/ebay/libovsdb v0.2.1-0.20210203104251-de1c4fe152ab
 github.com/ebay/libovsdb
 # github.com/evanphx/json-patch v4.9.0+incompatible
 github.com/evanphx/json-patch
 # github.com/go-logr/logr v0.2.0
 github.com/go-logr/logr
-# github.com/gogo/protobuf v1.3.2
+# github.com/gogo/protobuf v1.3.2 => github.com/gogo/protobuf v1.3.2
 github.com/gogo/protobuf/gogoproto
 github.com/gogo/protobuf/proto
 github.com/gogo/protobuf/protoc-gen-gogo/descriptor

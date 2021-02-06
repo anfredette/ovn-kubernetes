@@ -9,12 +9,12 @@ require (
 	github.com/bhendo/go-powershell v0.0.0-20190719160123-219e7fb4e41e
 	github.com/cenk/hub v1.0.1 // indirect
 	github.com/cenkalti/hub v1.0.1 // indirect
-	github.com/cenkalti/rpc2 v0.0.0-20210117202628-1bea588996c7 // indirect
+	github.com/cenkalti/rpc2 v0.0.0-20210206021708-de76ddb08fa8 // indirect
 	github.com/containernetworking/cni v0.8.0
 	github.com/containernetworking/plugins v0.8.7
 	github.com/coreos/go-iptables v0.4.5
 	github.com/ebay/go-ovn v0.1.1-0.20210203103701-8bb6a085d599
-	github.com/ebay/libovsdb v0.2.1-0.20200719163122-3332afaeb27c
+	github.com/ebay/libovsdb v0.2.1-0.20210203104251-de1c4fe152ab
 	github.com/gogo/protobuf v1.3.2 // indirect
 	github.com/google/uuid v1.2.0 // indirect
 	github.com/gorilla/mux v1.8.0
